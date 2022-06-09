@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resultados-react/static/css/main.ae0f4798.css",
+    "main.js": "/resultados-react/static/js/main.4cf50803.js",
+    "static/media/escudoHuracan.png": "/resultados-react/static/media/escudoHuracan.4cf7b3e825984b8a3a6f.png",
+    "static/media/escudoSanLorenzo.png": "/resultados-react/static/media/escudoSanLorenzo.af48795174730a4514c6.png",
+    "index.html": "/resultados-react/index.html",
+    "main.ae0f4798.css.map": "/resultados-react/static/css/main.ae0f4798.css.map",
+    "main.4cf50803.js.map": "/resultados-react/static/js/main.4cf50803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0f4798.css",
+    "static/js/main.4cf50803.js"
+  ]
+}
